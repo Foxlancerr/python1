@@ -34,5 +34,5 @@ import numpy as np
 # arr9 = np.arange(0,30,5)
 # print(arr9)
 
-arr10 = np.linspace(1,10,5)
-print(arr10)
+# arr10 = np.linspace(1,10,5)
+# print(arr10)
